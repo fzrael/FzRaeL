@@ -3,9 +3,11 @@
 <br>
 <br>
 
-## Sup Dude, Wellcome to my github  👋 
-### My real name is ARAR AL-DOSARI 
-### Information security student and cs 💻 
+# Sup Dude, Wellcome to my github  👋 
+
+## My real name is ARAR AL-DOSARI 
+
+## Information security student and cs 💻 
 
 [![Website](http://img.shields.io/badge/Website-x3ro-black?style=for-the-badge)](https://x3ro.me) [![Instagram](http://img.shields.io/badge/Instagram-81111i-red?style=for-the-badge)](https://instagram.com/81111i)
 
