@@ -1,4 +1,4 @@
-<img align="left" alt="" width="226px" top="30px" src="http://x3ro.me/img/git-fz.gif" />
+<img align="left" alt="Node.js" width="226px" top="30px" src="http://x3ro.me/img/git-fz.gif" />
 <br>
 <br>
 # Sup Dude, Wellcome to my github  👋 
@@ -21,10 +21,6 @@
 <img align="left" alt="windows" width="26px" src="https://46c4ts1tskv22sdav81j9c69-wpengine.netdna-ssl.com/wp-content/uploads/prod/2020/08/windows-logo-social.png" />
 <img align="left" alt="terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/master/topics/terminal/terminal.png" />
 <br>
-### Microcontroller ⚙
-<img align="left" alt="Arduino" width="36px" src="https://raw.githubusercontent.com/github/explore/master/topics/arduino/arduino.png" />
-<img align="left" alt="Nodemcu" width="56px" src="https://harleygn.net/images/esp8266_nodemcu.png" />
-<br>
 <br>
 # My Spotify 🎶
 ![](https://spotify-github-profile.vercel.app/api/view.svg?uid=hjn5rpwib3744xmkulex0vw4v&redirect=true][https://spotify-github-profile.vercel.app/api/view.svg?uid=hjn5rpwib3744xmkulex0vw4v&cover_image=true&theme=novatorem)
@@ -32,3 +28,5 @@
 ![](https://github-readme-stats.vercel.app/api?username=fzrael&theme=highcontrast&show_icons=true)
 # Github Trophy 🏆
 ![](https://github-profile-trophy.vercel.app/?username=fzrael&theme=dracula)
+
+
