@@ -1,9 +1,9 @@
 <img align="left" alt="" width="226px" top="30px" src="http://x3ro.me/img/git-fz.gif" />
 <br>
 <br>
-## Sup Dude, Wellcome to my github  👋 
-### My real name is ARAR AL-DOSARI 
-### Information security student and cs 💻 
+# Sup Dude, Wellcome to my github  👋 
+## My real name is ARAR AL-DOSARI 
+## Information security student and cs 💻 
 [![Website](http://img.shields.io/badge/Website-FajarTheGGman-black?style=for-the-badge)](https://x3ro.me) [![Instagram](http://img.shields.io/badge/Instagram-Kernel024-red?style=for-the-badge)](https://instagram.com/81111i)
 # This is Skill i have learned ⬇
 ### Programming Languange 💻
