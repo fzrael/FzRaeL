@@ -1,9 +1,10 @@
+<br>
 <img align="left" alt="fzrael" width="226px" top="30px" src="http://x3ro.me/img/git-fz.gif" />
 
 <br>
 <br>
 
-# Sup Dude, Wellcome to my github  👋 
+# Hi, Welcome to my github  👋 
 
 ## My real name is ARAR AL-DOSARI 
 
