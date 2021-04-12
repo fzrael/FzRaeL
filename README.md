@@ -25,6 +25,7 @@
 
 <img align="left" alt="MySQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" />
 <br>
+
 ### Tools and OS ⚒
 
 <img align="left" alt="Kali Linux" width="26px" src="https://1.bp.blogspot.com/-ae-EIEPv-Sg/XR8hwAsetsI/AAAAAAAADVE/8lQMBrI-KzEEnh_xEAtIsyjqpyPf4ClaACLcBGAs/s640/kali-linux.jpg" />
