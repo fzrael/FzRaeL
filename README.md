@@ -29,7 +29,7 @@
 ### Tools and OS ⚒
 
 <img align="left" alt="Kali Linux" width="26px" src="https://1.bp.blogspot.com/-ae-EIEPv-Sg/XR8hwAsetsI/AAAAAAAADVE/8lQMBrI-KzEEnh_xEAtIsyjqpyPf4ClaACLcBGAs/s640/kali-linux.jpg" />
-<img align="left" alt="windows" width="26px" src="https://cdn.pling.com/img/1/7/6/e/3c04f1ec8dc2493b08672972ed004a6f4f90.png" />
+<img align="left" alt="windows" width="30px" src="https://cdn.pling.com/img/1/7/6/e/3c04f1ec8dc2493b08672972ed004a6f4f90.png" />
 <img align="left" alt="terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/master/topics/terminal/terminal.png" />
 <br>
 <br>
