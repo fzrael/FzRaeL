@@ -28,7 +28,7 @@
 ### Tools and OS ⚒
 
 <img align="left" alt="Kali Linux" width="26px" src="https://1.bp.blogspot.com/-ae-EIEPv-Sg/XR8hwAsetsI/AAAAAAAADVE/8lQMBrI-KzEEnh_xEAtIsyjqpyPf4ClaACLcBGAs/s640/kali-linux.jpg" />
-<img align="left" alt="windows" width="26px" src="https://raw.githubusercontent.com/github/explore/master/topics/windows/windows.pngg" />
+<img align="left" alt="windows" width="26px" src="https://raw.githubusercontent.com/github/explore/master/topics/windows/windows.png" />
 <img align="left" alt="terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/master/topics/terminal/terminal.png" />
 <br>
 <br>
