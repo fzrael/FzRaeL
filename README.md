@@ -10,7 +10,7 @@
 
 ## Information security student and cs 💻 
 
-[![Website](http://img.shields.io/badge/Website-x3ro-black?style=for-the-badge)](https://x3ro.me) [![Instagram](http://img.shields.io/badge/Instagram-81111i-red?style=for-the-badge)](https://instagram.com/81111i)
+[![Instagram](http://img.shields.io/badge/Instagram-h8l1-red?style=for-the-badge)](https://instagram.com/h8l1)
 
 # This is Skill i have learned ⬇
 
